@@ -5,14 +5,6 @@
  *      Author: dchiu
  */
 
-
-/*
- * prodcons.c
- *
- *  Created on: Mar 25, 2016
- *      Author: dchiu
- */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
